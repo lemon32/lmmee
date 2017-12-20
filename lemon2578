@@ -1,0 +1,8 @@
+$ ruby make_url.rb
+The
+url
+---- we have a URL! => http://www.sitepoint.com/ruby/
+should
+be
+a
+link
